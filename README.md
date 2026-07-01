@@ -47,7 +47,7 @@ A healthcare web application focused on simplifying appointment booking and heal
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rajchoubey
-- 📧 Email: cchutiya831@gmail.com
+- 📧 Email: choubeyraj18@gmail.com
 
 ---
 
